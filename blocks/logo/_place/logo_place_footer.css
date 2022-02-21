@@ -1,5 +1,4 @@
 .logo_place_footer {
-  background: url(../../../images/logo_white.svg);
-  z-index: 3;
-  margin: 0;
+  background-image: url(../../../images/logo_white.svg);
+  height: 35px;
 }
